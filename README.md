@@ -1,3 +1,6 @@
+# PsychologyDataBotWithThread
+This bot extract data from "https://www.psychologytoday.com/us/treatment-rehab" website for all states in USA. It was implemented with multi threading.
+
 # ScrapCustomAuthorityData
 Need to extract data from websites of different national customs authorities.
 This first project would be a small number of files form a website in japan ( english language)
